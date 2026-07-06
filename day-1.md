@@ -1,5 +1,6 @@
 <img width="2508" height="1451" alt="image" src="https://github.com/user-attachments/assets/9737c8f7-f33a-4b12-87e3-3131c4432b98" /># Daily Learning
 ## Morning Planning
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 ### Unordered list
 - Item 1
 - Item 2
